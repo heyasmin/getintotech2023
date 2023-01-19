@@ -1,6 +1,16 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding 20px;
+    padding: 20px;
     background-color: bisque;
     color: maroon;
+}
+
+p {
+    color: black;
+    font-size: 16px;
+}
+
+#copyright {
+    color: darkgray;
+    font-size: 10px;
 }
